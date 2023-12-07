@@ -335,3 +335,70 @@
         margin-top: 30px;
     }
 }
+
+
+
+@media(max-width:320px){
+    .socail-media-icon ul {
+        margin-top: -65px;
+        margin-left: 0;
+    }
+    .header-top .logo {
+        margin-left: -185px;
+    }
+    nav {
+        width: 100%;
+        padding: 0px 0 15px;
+    }
+    .socail-media-icon ul li a {
+        border: 1px solid #fff;
+        border-radius: 50%;
+        padding: 1px 6px;
+        color: #fff;
+    }
+    .socail-media-icon ul {
+        margin-top: -65px;
+        margin-left: 0;
+        gap: 6px;
+    }
+    .socail-media-icon ul {
+        margin-top: -65px;
+        margin-left: 77px;
+        gap: 6px;
+    }
+    nav ul li a {
+        /* padding: 10px; */
+        line-height: 20px;
+        /* background: #262626; */
+        padding: 8px 21px;
+    }
+    .our-rider {
+        margin-left: 60px;
+        display: block;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .touresec .distance h3 {
+        font-size: 23px;
+        color: #ffffff;
+        font-weight: 700;
+        text-align: right;
+    }
+    .touresec .distance h1 span {
+        margin-left: 42px;
+    }
+    .touresec .tour-cntnt {
+        text-align: center;
+        padding: 38px 16px;
+    }
+    .contactsec .cntct-hdng p {
+        font-size: 15px;
+        margin-bottom: -40px;
+    }
+    .contactsec .bottom-icon a {
+        border: 1px solid yellow;
+        border-radius: 50%;
+        padding: 9px;
+        margin-right: 5px;
+    }
+}
