@@ -402,3 +402,20 @@
         margin-right: 5px;
     }
 }
+
+@media(max-width:390px){
+    .socail-media-icon ul {
+        margin-top: -67px;
+        margin-left: 61px;
+    }
+    .header-top .logo {
+        margin-left: -292px;
+    }
+    nav {
+        width: 100%;
+        padding: 0px 0 15px;
+    }
+    .touresec .distance h1 span {
+        margin-left: 45px;
+    }
+}
