@@ -1,0 +1,337 @@
+@media(max-width: 1200px){
+    .header-top .stellarnav>ul>li>a {
+        padding: 0 10px;
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .stellarnav ul {
+        padding-top: 11px;
+        text-align: center;
+        margin-top: 10px;
+        display: flex;
+        justify-content: flex-start;
+    }
+    .logo img {
+        width: 100%;
+        padding-top: 11px;
+        margin-top: 10px;
+    }
+    .socail-media-icon ul {
+        display: flex;
+        gap: 30px;
+        padding-top: 11px;
+        margin-top: 10px;
+    }
+    
+    .socail-media-icon ul li a i{
+        font-size: 14px;
+    }
+    .herosec .triangle-1{
+        display: none;
+    }
+    .bottom-trangle1{
+        display: none;
+    }
+    .socail-media-icon{
+        margin-right: 75px;
+    }
+    .header-top {
+        padding-bottom: 20px;
+        padding-top: 0;
+    }
+    .our-rider-hdng p{
+        padding-right: 0;
+    }
+    .our-rider-hdng h3 span {
+        font-size: 20px;
+        margin-bottom: 0; 
+        padding-left: 0;
+    }
+    .our-rider-hdng h3 {
+        font-size: 27px;
+    }
+    .world-widesec .world-bg-img .ridebike {
+        position: absolute;
+        top: -40px;
+        bottom: 0;
+        /* left: 30px; */
+        right: -22%;
+    }
+    .cuntrubox .country {
+        margin-left: 140px;
+    }
+
+}
+
+@media(max-width:1024px){
+    .socail-media-icon ul {
+        display: flex;
+        gap: 18px;
+        padding-top: 11px;
+        margin-top: 10px;
+    }
+    .world-widesec .ridecntent h4 {
+        padding-left: 125px;
+    }
+    .world-widesec .world-bg-img .ridertittle h1 {
+        padding-top: 50px;
+        padding-left: 0;
+    }
+    .world-widesec .ridecntent p {
+        padding: 6px 135px 0;
+        color: #d3b9b9;
+    }
+    .world-widesec .world-bg-img .ridebike {
+        position: absolute;
+        top: -26px;
+        bottom: 0;
+        /* left: 30px; */
+        right: -28%;
+    }
+    .our-rider {
+        padding-right: 0;
+    }
+    .touresec .distance {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        gap: 24px;
+        padding-top: 65px;
+    }
+    .touresec .sqare {
+        height: 423px;
+    }
+    .milestone {
+        margin-top: 80px;
+        text-align: left;
+        margin-left: 80px !important;
+        margin-top: 104px !important;
+    }
+    .tour-info{
+        margin-top: 10px;
+    }
+    .tour-info p {
+        padding: 4px 94px;
+        text-align: center;
+    }
+    .blog-box .blog-content .blog-hdng h3{
+        font-size: 23px;
+    }
+    .blog-box .blog-content p{
+        margin-bottom: 3rem;
+    }
+}
+
+@media(max-width:768px){
+    .h-menu {
+        display: flex;
+        justify-content: flex-start;
+    }
+    .nav-mobile {
+        position: absolute;
+        top: 18px;
+        right: 0;
+        background: transparent;
+        height: 55px;
+        width: 70px;
+    }
+    .our-rider {
+        margin-left: 111px;
+        display: block;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .herosec .banner-hdng h1 {
+        font-size: 56px;
+    }
+    .herosec{
+        height: 662px;
+    }
+    .blogsec {
+        margin-top: 5rem;
+    }
+    .prdct-tittle h4 {
+        font-size: 22px;
+    }
+    .world-widesec .ridecntent p {
+        padding: 6px 23px 0;
+        color: #d3b9b9;
+    }
+    .world-widesec .ridecntent h4 {
+        padding-left: 18px;
+        font-size: 20px;
+    }
+    .world-widesec .world-bg-img .ridertittle h1 {
+        padding-top: 50px;
+        padding-left: 14px;
+        font-size: 30px;
+        text-align: left;
+    }
+    .world-widesec .world-bg-img .ridebike img {
+        width: 100%;
+        height: 462px;
+        object-fit: cover;
+    }
+    /* .world-widesec .world-bg-img{
+        height: 740px;
+    } */
+    .ridecntent{
+        margin-bottom: 50px;
+    }
+    .world-widesec .world-wide-hdng {
+        margin-top: 40px;
+    }
+    .world-widesec .world-wide-hdng h1 {
+        font-size: 40px;
+    }
+    .world-widesec .main-rider-img img {
+        height: 501px;
+    }
+    .touresec .distance {
+        display: block;
+        padding-top: 65px;
+    }
+    .touresec .distance h3 {
+        text-align: left;
+    }
+    .touresec .tour-cntnt {
+        text-align: center;
+        padding: 0px 62px 0 0px;
+    }
+    .touresec .sqare {
+        height: 404px;
+    }
+    .touresec .country h1 {
+        font-size: 34px;
+    }
+    .touresec .country h3 {
+        padding-left: 0px;
+    }
+    .touresec .country .cntry h4 {
+        padding-left: 5px;
+        font-size: 13px;
+    }
+    .tour-info p {
+        padding: 0px 21px 0 131px;
+        text-align: center;
+    }
+    .blog-box .blog-content .blog-hdng h3 {
+        font-size: 17px;
+    }
+    .blogsec .blog-box .blog-img .blog-date h3 {
+        font-size: 26px;
+    }
+    .contactsec .cntct-hdng p {
+        font-size: 15px;
+    }
+    .contactsec .cntct-hdng h1 {
+        font-size: 30px;
+        padding-top: 35px;
+    }
+    .contactsec {
+        height: 287px;
+    }
+}
+
+@media(max-width:600px){
+    .world-widesec .world-bg-img .ridebike {
+        display: none;
+    }
+    .touresec .sqare .tourbike{
+        display: none;
+    }
+    .logo img {
+        margin-top: 20px;
+    }
+    .socail-media-icon ul {
+        display: flex;
+        gap: 18px;
+        /* padding-top: 11px; */
+        margin-top: -50px;
+    }
+    .socail-media-icon ul {
+        display: flex;
+        gap: 18px;
+        /* padding-top: 11px; */
+        margin-top: -50px;
+    }
+    .header-top .logo {
+        margin-left: -471px;
+    }
+    .socail-media-icon ul {
+        display: flex;
+        gap: 18px;
+        /* padding-top: 11px; */
+        margin-top: -50px;
+        margin-left: 143px;
+    }
+    .blogsec {
+        margin-top: 1.5rem;
+    }
+    .contactsec {
+        height: 314px;
+    }
+    .contactsec .bottom-icon a {
+        border: 1px solid yellow;
+        border-radius: 50%;
+        padding: 13px;
+        margin-right: 6px;
+    }
+    .contactsec .bottom-icon a i {
+        font-size: 18px;
+    }
+    .our-rider-hdng{
+        margin-top: 30px;
+    }
+    .our-rider-img{
+        margin-top: 30px;
+    }
+    .world-widesec .world-wide-box {
+        margin-top: 15px;
+    }
+    .touresec .distance {
+        display: flex;
+        justify-content: left;
+        align-items: center;
+        gap: 60px;
+        padding-top: 65px;
+    }
+    .touresec .sqare {
+        height: 369px;
+    }
+    .touresec .tour-cntnt {
+        text-align: center;
+        padding: 50px 51px;
+    }
+    .blog-box .blog-content .blog-hdng h3 {
+        font-size: 22px;
+    }
+}
+
+@media screen and (max-width: 480px){
+    .header-top .logo {
+        margin-left: -320px;
+    }
+    .socail-media-icon ul {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .herosec .banner-hdng h1 {
+        font-size: 35px;
+        padding-top: 190px;
+    }
+    .blogsec .blog-box .blog-img {
+        position: relative;
+        padding: 20px;
+        margin-top: 30px;
+    }
+    .touresec .sqare {
+        height: 374px;
+    }
+    .blog-box .blog-content p {
+        margin-bottom: 0rem;
+    }
+    .contactsec {
+        margin-top: 30px;
+    }
+}
