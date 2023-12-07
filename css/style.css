@@ -694,7 +694,7 @@ button.owl-next span {
 .herosec .triangle {
     position: absolute;
     bottom: -3px;
-    left: 559px;
+    left: 409px;
     right: 0;
     top: 0px;
 }
@@ -721,7 +721,7 @@ button.owl-next span {
     position: absolute;
     bottom: 0;
     top: 350px;
-    /* right: 37px; */
+    right: 0px;
     z-index: -1;
 }
 
